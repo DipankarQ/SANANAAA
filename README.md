@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipankar Dutta
-- 👀 I’m interested in ... Full Stack web Dev
-- 🌱 I’m currently learning ...Java Script
+- 👀 I’m interested in ... Full - Stack Web development
+- 🌱 I’m currently learning ...Web 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sundutta68@gmail.com
 
